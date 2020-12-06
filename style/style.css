@@ -51,10 +51,14 @@ body{
 
 main{
     background-color: #f6f5f5;
-    height: 86vh;
+    height: 88vh;
 }
 
 footer{
     background-color: #145374;
-    height: 7vh;
+    height: 1.5vh;
+    color: #f6f5f5;
+    text-align: center;
+    font-size: 1.1rem;
+    padding: 1rem;
 }
